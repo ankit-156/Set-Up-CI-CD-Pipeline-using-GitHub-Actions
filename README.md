@@ -2,6 +2,14 @@
 
 This is a **React Dockerized Application** with a simple CI/CD workflow.
 
+## 🖼️ Output Preview
+![Output](output/output_1.png)
+![Output](output/output_2.png)
+![Output](output/output_3.png)
+![Output](output/output_4.png)
+![Output](output/output_5.png)
+![Output](output/output_6.png)
+
 ## 🚀 Features
 - Multi-stage Docker build for smaller images  
 - Nginx-based static hosting  
@@ -23,5 +31,4 @@ react-ci-cd-upload/
     └── output_1.png
 ```
 
-## 🖼️ Output Preview
-![Output](output/output_1.png)
+
